@@ -8,7 +8,7 @@ link-citations: true
 ...
 
 
-* Correspondance:
+* Correspondence:
 jane.e.doe@unifraneker.nl
 
 
