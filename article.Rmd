@@ -19,7 +19,7 @@ cito-bibliography: bibliography.bib
 ...
 
 
-* Correspondance:
+* Correspondence:
 jane.e.doe@unifraneker.nl
 
 
